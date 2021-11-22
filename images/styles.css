@@ -1,0 +1,117 @@
+.top-section,
+.main-section{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:sans-serif;
+}
+
+.top-section {
+    background-color: #4682b4;
+    padding:25px;
+    color:white;
+}
+
+.gym{
+    display:inline;
+    margin-right:50px;
+    font-size:20px;
+}
+
+.top-section nav{
+    display:inline;
+}
+
+.top-section ul{
+    display:inline;
+}
+
+.top-section li {
+    display:inline;
+    margin:20px;}
+
+    .top-section ul a{
+        color:white;
+        text-decoration:none;
+    }
+
+    .main-section {
+        padding:40px;
+    }
+
+    .testimonial2 {
+        display:inline;
+        background-color:pink;
+        font-size:small;
+    }
+
+    h2,
+    span{
+        color:#4682b4;
+    }
+
+    .fitness{
+        margin-bottom:20px;
+        margin-top:10px;
+    }
+
+    .membership{
+        margin-top:20px;
+    }
+
+    .get-membership{
+        margin-top:20px;
+        margin-bottom:20px;
+        display:inline-block;
+        border:2px solid orange;
+        padding:10px 25px;
+        border-radius: 10px;
+        text-decoration:none;
+        color:orange;
+    }
+
+    .instagram,
+    .youtube,
+    .facebook{
+        display:inline;
+        margin-top:5px;
+        border:1px solid black;
+        border-radius:10px;
+        margin:10px;
+        padding:10px 20px;
+        text-decoration:none;
+        color:white;
+        font-weight:bold;
+    }
+
+    .instagram {
+        background-color:#9932cc;
+    }
+    .youtube{
+        background-color: red;
+    }
+    .facebook{
+        background-color: #1877f2;
+    }
+
+    .last-section{
+        padding:1px;
+        background-color: #4682b4;
+        color:white;
+        font-family:sans-serif;
+    }
+
+    .last-section ul li{
+        list-style:none;
+    }
+    .features{
+        margin-bottom:10px;
+    }
+.london{
+    padding-left:25px;
+    font-size: smaller;
+}
+
+.near-me{
+    font-weight: bold;
+}
